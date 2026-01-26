@@ -1,30 +1,33 @@
 # Azure‑Related Prompts
 
-A focused collection of AI prompts designed to support Azure engineers, architects, and administrators with cloud analysis, identity reasoning, and configuration understanding.
+A focused collection of AI prompts designed to support Azure engineers, architects, and administrators with cloud analysis, identity reasoning, and configuration understanding. Each prompt includes a **Goal** entry describing its purpose.
 
 ## 🎯 Purpose
 These prompts help professionals analyze Azure configurations, reason about identity and access, and simulate cloud behaviors in a deterministic, structured way.
 
-## 📂 Contents
-This repository includes prompts related to:
+## 📂 Prompt Catalog
+*(Add or expand as you add files)*
 
-- Azure identity and access analysis  
-- Conditional Access reasoning  
-- Cloud configuration explanation  
-- Azure service behavior modeling  
-- Troubleshooting and architectural guidance  
+### **Azure Identity & Access Analyzer**
+**Goal:** Evaluate Azure AD / Entra ID configurations and identify potential misconfigurations.
 
-*(If you add more files later, we can expand this section.)*
+### **Conditional Access Policy Reasoning Assistant**
+**Goal:** Interpret Conditional Access policies and explain their real‑world impact.
+
+### **Azure Architecture Explainer**
+**Goal:** Translate complex Azure architectures into clear, understandable explanations.
+
+### **Azure Troubleshooting Companion**
+**Goal:** Assist with diagnosing common Azure service issues using structured reasoning.
 
 ## 🧩 Who This Is For
 - Azure administrators  
 - Cloud security engineers  
 - IAM specialists  
-- Architects designing Azure environments  
+- Cloud architects  
 
 ## 🚀 How to Use
-Open any prompt file and follow the embedded instructions.  
-Most prompts accept Azure configurations, policy definitions, or architectural descriptions as input.
+Open any prompt file and follow the embedded instructions.
 
 ## 📜 License
 MIT License
